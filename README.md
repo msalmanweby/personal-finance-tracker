@@ -4,13 +4,16 @@
 
 ### **Authentication**
 
-**Register a User**
-**Log in a User**
+## **Register a User**
+
+## **Log in a User**
+
 **Get Profile Information**
 
 ### **Expense Management**
 
-**Create an Expense**
+## **Create an Expense**
+
 **Filter Expense**
 
 ### **Installation and Setup**
