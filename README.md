@@ -10,7 +10,7 @@ Get Profile Information
 
 Filter Expense
 
-Installation and Setup
+## Installation and Setup
 
 **Clone the Repo**
 
