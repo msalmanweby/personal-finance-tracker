@@ -2,21 +2,15 @@
 
 ## Features and Functionalities
 
-### **Authentication**
+**Register a User**
 
-## **Register a User**
-
-## **Log in a User**
+**Log in a User**
 
 **Get Profile Information**
 
-### **Expense Management**
-
-## **Create an Expense**
-
 **Filter Expense**
 
-### **Installation and Setup**
+**Installation and Setup**
 
 **Clone the Repo**
 
